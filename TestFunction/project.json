@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+          "LinqKit": "1.1.7.2"
+      }
+    }
+  }
+}
